@@ -79,11 +79,7 @@ Tech Stack
 - 🔹 Deploy on a cloud server (AWS/GCP/Heroku).
 
 ## 👨‍💻 Author
-[Your Name](https://github.com/NhlamoloMaluleke)
-
-## 📜 License
-This project is licensed under the **MIT License**.
-
+Mulweli
 ---
 ⭐ **If you find this project helpful, give it a star on GitHub!** ⭐
 
